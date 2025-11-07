@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Melissa Mokhbat  
 
 🎓 I'm a third-year Software Engineering student at **USTHB** (Université des Sciences et de la Technologie Houari-Boumédiène), specializing in **Information Systems and Software Engineering**.  
-💡 Passionate about **AI**, **Full Stack Development**, and **Game Development**.  
+💡 Passionate about **AI**, **Full Stack Development**,  **design UI/UX** and **Game Development**.  
 
-🚀 I have academic knowledge in **Computer Science**, focusing on **Artificial Intelligence** and **Data Science**, combined with practical experience in **Web Development**, **Mobile Apps**, **Game Creation**, **Discord Bots**, and **Problem Solving**.  
+🚀 I have academic knowledge in **Computer Science**, focusing on **Artificial Intelligence** and **Data Science**, combined with practical experience in **Web Development**, **Mobile Apps**, **Game Creation**, **Discord Bots**, **design UI/UX** and **Problem Solving**.  
 ✨ I love learning new technologies, building creative projects, and collaborating with people who share the same passion for innovation.  
 
 ---
