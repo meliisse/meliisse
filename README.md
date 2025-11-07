@@ -100,10 +100,11 @@
 ---
 
 > <div align="center" style="background-color:#222; padding:20px; border-radius:10px; color:#90EE90; font-style:italic;">
-> <span style="font-size:1.2em;">“The hardest part of design is keeping features out.”</span>  
+> <span style="font-size:1.2em;">“Simplicity is the soul of efficiency.”</span>  
 > <br>
-> <span style="color:#FFA500;">– Don Norman</span>
+> <span style="color:#FFA500;">– Austin Freeman</span>
 > </div>
+
 
 
 ---
