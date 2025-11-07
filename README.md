@@ -99,7 +99,16 @@
 
 ---
 
+> <div align="center" style="background-color:#222; padding:20px; border-radius:10px; color:#90EE90; font-style:italic;">
+> <span style="font-size:1.2em;">“The hardest part of design is keeping features out.”</span>  
+> <br>
+> <span style="color:#FFA500;">– Don Norman</span>
+> </div>
+
+
+---
+
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-mokhbat-120a90333/)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/1122407766967988297)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1122407766967988297)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokhbatmelissa2@gmail.com)
