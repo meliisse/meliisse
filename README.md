@@ -1,18 +1,25 @@
-# 👋 Hi, I'm Melissa Mokhbat  
+# 👋 Hi, I'm Melissa Mokhbat
 
-🎓 I'm a third-year Software Engineering student at **USTHB** (Université des Sciences et de la Technologie Houari-Boumédiène), specializing in **Information Systems and Software Engineering**.  
-💡 Passionate about **AI**, **Full Stack Development**,  **design UI/UX** and **Game Development**.  
+🎓 I'm currently pursuing a **Master's degree in Intelligent Computer Systems**, building on my **Bachelor's degree in Information Systems and Software Engineering**.
 
-🚀 I have academic knowledge in **Computer Science**, focusing on **Artificial Intelligence** and **Data Science**, combined with practical experience in **Web Development**, **Mobile Apps**, **Game Creation**, **Discord Bots**, **design UI/UX** and **Problem Solving**.  
-✨ I love learning new technologies, building creative projects, and collaborating with people who share the same passion for innovation.  
+💡 I'm passionate about **Artificial Intelligence, Full Stack Development, and UI/UX Design**, with a strong interest in creating intelligent, practical, and user-friendly software solutions.
+
+🚀 Through my academic background and projects, I have developed skills in **Web Development and Software Development**, along with experience in **AI, databases, backend development, UI/UX design, and problem solving**.
+
+✨ I enjoy learning new technologies, developing creative projects, solving complex problems, and continuously improving my technical skills. I'm especially interested in combining **AI with software development** to build useful and innovative applications.
 
 ---
 
-## 🧠 About Me  
-- 🌍 Based in Algiers, Algeria  
-- 💻 Interested in: AI, Full Stack, Cybersecurity, and Game Development  
-- ⚙️ Always improving my backend and mobile skills  
-- 🧩 I enjoy solving complex problems and building apps that make an impact  
+## 🧠 About Me
+
+* 🌍 Based in Algiers, Algeria
+* 🎓 **Master's student in Intelligent Computer Systems**
+* 📚 **Bachelor's degree in Information Systems and Software Engineering**
+* 💻 Interested in **AI, Full Stack Development, Software Development, and UI/UX Design**
+* 🤖 Exploring **Artificial Intelligence and Data Science**
+* ⚙️ Developing my skills in **Web & Software Development**
+* 🧩 Passionate about problem solving and building creative applications
+* 🚀 Always learning and exploring new technologies
 
 ---
 
